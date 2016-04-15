@@ -18,5 +18,22 @@
   "scripts": {
     "build": "browserify ./public/index.js -t babelify -o ./public/bundle.js",
     "start": "node server.js & watchify ./public/index.js -v -t babelify -o ./public/bundle.js"
-  }
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didierfranc/react-browserify-starter.git"
+  },
+  "keywords": [
+    "react",
+    "browserify",
+    "node",
+    "express"
+  ],
+  "author": "Didier Franc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didierfranc/react-browserify-starter/issues"
+  },
+  "homepage": "https://github.com/didierfranc/react-browserify-starter#readme"
 }
