@@ -1,5 +1,5 @@
 # react-browserify-starter
-Get started with React using Browserify, Watchify and Express. 
+Get started with React using Browserify, Watchify and Express.  
 You can follow the tutorial at https://facebook.github.io/react/docs/getting-started.html
 
 ## Installation
